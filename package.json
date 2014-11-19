@@ -1,0 +1,24 @@
+{
+  "name": "testci",
+  "version": "0.0.1",
+  "description": "测试持续集成",
+  "keywords": [],
+  "homepage": "",
+  "author": "浩初 <shunqian.ji@alibaba-inc.com>",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "index.js",
+    "dependencies": {
+    },
+    "devDependencies": {
+      "expect.js": "0.3.1"
+    }
+  }
+}
